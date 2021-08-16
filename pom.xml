@@ -6,7 +6,7 @@
   <artifactId>WalletHubAssignment</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>FlipAssignment</name>
+  <name>WalletHubAssignment</name>
   <url>http://maven.apache.org</url>
   <build>
   <resources>
